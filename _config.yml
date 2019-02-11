@@ -108,13 +108,13 @@ analytics:
 author:
   name             : "Edgar Garcia"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Analyst wannabe"
+  bio              : "Data Science portfolio"
   location         : "Somewhere"
-  email            :
+  email            : "edgarcia@engineer.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto:edgarcia@engineer.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -151,7 +151,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+       url: "https://www.instagram.com/edgarcia.h/"
 
 
 # Reading Files
