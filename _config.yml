@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Edgarciah"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Edgar García"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -84,8 +84,8 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               :
-facebook:
-  username               :
+facebook: "https://www.facebook.com/UGarciaH"
+  username               : "UGarciaH"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
