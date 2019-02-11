@@ -109,7 +109,7 @@ author:
   name             : "Edgar Garcia"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science portfolio"
-  location         : "Somewhere"
+  location         : "CDMX"
   email            : "edgarcia@engineer.com"
   links:
     - label: "Email"
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Edgarciah?tab=repositories"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
